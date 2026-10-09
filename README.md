@@ -1,2 +1,0 @@
-# JINX-
-Search engine
